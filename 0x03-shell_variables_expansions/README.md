@@ -1,1 +1,1 @@
-in this task, i tackle the shell expansions and variable project
+This is a README for my shell variables and expansion project
